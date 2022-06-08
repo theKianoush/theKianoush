@@ -6,7 +6,7 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="keyonranjbar@aol.com">
-   <img align="center" src="https://img.shields.io/badge/Personal email-D?style=for-the-badge&logo=gmail&logoColor=white" /> 
+   <img align="center" src="https://img.shields.io/badge/Personal website-E10915?style=for-the-badge&logo=&logoColor=white" /> 
   </a>
 
 
