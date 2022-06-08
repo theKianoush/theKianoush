@@ -17,7 +17,7 @@
 
 <img src="https://blog.postman.com/wp-content/uploads/2020/06/schema-postmanautBKG.png" width="400" alt="astronaut in front of screen">
 
-<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKianoush&theme=react&show_icons=true&count_private=true&hide=stars)
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKianoush&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide=stars)
 
 ## Languages and Tools that I have used:
 <a>
