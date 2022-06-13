@@ -51,7 +51,6 @@
 
 
 
-- ⚡ Fun fact: ... there are 293 ways to make change for a dollar
 ## Credits
 Credit to [Postman API](https://www.postman.com) for the astronaut png
 <br>Thanks to [Anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub Stats badge
