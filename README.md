@@ -50,11 +50,6 @@
 
 
 
-## About me:
-
-- 🔭 I’m currently working on ... projects, certifications, internships
-- 🌱 I’m currently learning ... c++, python, networks, security and hacking
-- 💞️ My favorite sports ... Basketball and Boxing
 
 - ⚡ Fun fact: ... there are 293 ways to make change for a dollar
 ## Credits
