@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/kianranjbar">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="keyonranjbar@aol.com">
+<a href="https://kiansportfolio.herokuapp.com">
    <img align="center" src="https://img.shields.io/badge/Personal website-E10915?style=for-the-badge&logo=&logoColor=white" /> 
   </a>
 
@@ -19,7 +19,7 @@
 
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKianoush&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide=stars)
 
-## Languages and Tools that I have used:
+## Languages and Tools that I love using:
 <a>
   <p>&nbsp;
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"/>
