@@ -10,7 +10,11 @@
   </a>
 
 
-<br>A student of not only school, but life!
+<br>Dedicated and determined to become a Network Engineer 
+<br>And eventually one day a Cloud Network Engineer
+<br>For now I am focused on learning Networking, Cybersecurity, and Cloud Computing
+<br>I cannot wait to become a professional in the IT industry
+<br>
 <br>"Be the change you want to see"
 
 
@@ -64,6 +68,4 @@ Credit to [Postman API](https://www.postman.com) for the astronaut png
 <img align="center" src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 
 
-## Check out my Repos ↓
-</div>
 
