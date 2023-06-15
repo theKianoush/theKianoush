@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hello world 👋 I'm Kianoush, but you can call me Nush
+## Hello world 👋 I'm Kianoush, but you can call me Kian
 
 <a href="https://www.linkedin.com/in/kianranjbar">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
