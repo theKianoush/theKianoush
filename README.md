@@ -10,8 +10,6 @@
   </a>
 
 
-<br>Dedicated and determined to become a Network Engineer 
-<br>And eventually one day a Cloud Network Engineer
 <br>For now I am focused on learning Networking, Cybersecurity, and Cloud Computing
 <br>I cannot wait to become a professional in the IT industry
 <br>
@@ -19,7 +17,6 @@
 
 
 
-<img src="https://blog.postman.com/wp-content/uploads/2020/06/schema-postmanautBKG.png" width="400" alt="astronaut in front of screen">
 
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKianoush&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide=stars)
 
