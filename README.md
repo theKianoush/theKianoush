@@ -2,12 +2,7 @@
 
 ## Hello world 👋 I'm Kianoush, but you can call me Kian
 
-<a href="https://www.linkedin.com/in/kianranjbar">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://kiansportfolio.herokuapp.com">
-   <img align="center" src="https://img.shields.io/badge/Personal website-E10915?style=for-the-badge&logo=&logoColor=white" /> 
-  </a>
+
 
 
 <br>For now I am focused on learning Networking, Cybersecurity, and Cloud Computing
